@@ -29,6 +29,8 @@ const projects = [
     technologies: ["React", "Django", "PostgreSQL", "JWT Auth"],
     image: "images/e-commerce.png",
     bgColor: "bg-green-100",
+    projectLink: "https://e-commerce-navy-nine.vercel.app/",
+    githubLink: "https://github.com/Justjoseph0/e-commerce",
   },
   {
     id: 4,
