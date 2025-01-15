@@ -18,7 +18,7 @@ function App() {
   return (
     <>
       <Nav />
-      <div className="max-w-6xl mx-auto w-full p-4">
+      <div className="max-w-6xl mx-auto w-full p-4 overflow-hidden">
         <HomePage />
         <Projects />
         <About />
